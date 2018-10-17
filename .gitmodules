@@ -4,3 +4,6 @@
 [submodule "RunningThroughRussia2Bot"]
 	path = RunningThroughRussia2Bot
 	url = https://github.com/Kelturio/RunningThroughRussia2Bot.git
+[submodule "EveServerStatus"]
+	path = EveServerStatus
+	url = https://github.com/Kelturio/EveServerStatus.git
